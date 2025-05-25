@@ -58,7 +58,7 @@ npm install
 
 ---
 
-### 4. Smart Contract Reference
+### Smart Contract Reference
 
 - **Contract Source Code:** [View on GitHub](https://github.com/martinperezcss/TimeShift-NFT)
 - **Deployed Address (Sepolia):** [`0xA7FF038011ab80e0837262c9BAe3814352317cF4`](https://sepolia.etherscan.io/address/0xA7FF038011ab80e0837262c9BAe3814352317cF4) (View on Etherscan)
