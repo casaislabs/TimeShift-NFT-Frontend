@@ -56,10 +56,23 @@ cd TimeShift-NFT-Frontend
 npm install
 ```
 
+---
+
+### 4. Smart Contract Reference
+
+- **Contract Source Code:** [View on GitHub](https://github.com/martinperezcss/TimeShift-NFT)
+- **Deployed Address (Sepolia):** [`0xA7FF038011ab80e0837262c9BAe3814352317cF4`](https://sepolia.etherscan.io/address/0xA7FF038011ab80e0837262c9BAe3814352317cF4) (View on Etherscan)
+
+> The smart contract is open source. You can review, audit, or fork it from the repository above.
+
+---
+
 ### Get Sepolia Testnet ETH
 
 To interact with the Sepolia testnet, you'll need some test ETH for gas fees. Visit the [Google Cloud Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) and follow the instructions to receive Sepolia ETH to your wallet address.  
 > **Why?** Test ETH is required to pay for transactions (like minting NFTs) on the Sepolia network, but it has no real-world value.
+
+---
 
 
 ### 2. Configure Environment
