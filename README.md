@@ -56,6 +56,12 @@ cd TimeShift-NFT-Frontend
 npm install
 ```
 
+### Get Sepolia Testnet ETH
+
+To interact with the Sepolia testnet, you'll need some test ETH for gas fees. Visit the [Google Cloud Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) and follow the instructions to receive Sepolia ETH to your wallet address.  
+> **Why?** Test ETH is required to pay for transactions (like minting NFTs) on the Sepolia network, but it has no real-world value.
+```
+
 ### 2. Configure Environment
 
 Create a `.env` file with your WalletConnect Project ID:
