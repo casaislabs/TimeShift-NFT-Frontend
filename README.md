@@ -60,7 +60,7 @@ npm install
 
 ### Smart Contract Reference
 
-- **Contract Source Code:** [View on GitHub](https://github.com/martinperezcss/TimeShift-NFT)
+- **Contract Source Code:** [View on GitHub](https://github.com/casaislabs/TimeShift-NFT)
 - **Deployed Address (Sepolia):** [`0xA7FF038011ab80e0837262c9BAe3814352317cF4`](https://sepolia.etherscan.io/address/0xA7FF038011ab80e0837262c9BAe3814352317cF4) (View on Etherscan)
 
 > The smart contract is open source. You can review, audit, or fork it from the repository above.
@@ -139,7 +139,3 @@ export const DYNAMIC_NFT_ABI = [ /* ...your contract ABI... */ ];
 - [Ethers.js](https://docs.ethers.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
-
----
-
-> **Developed with ❤️ by [Martin]**
