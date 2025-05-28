@@ -51,7 +51,7 @@ A cutting-edge frontend for minting and visualizing **dynamic NFTs** on the Sepo
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/martinperezcss/TimeShift-NFT-Frontend.git
+git clone https://github.com/casaislabs/TimeShift-NFT-Frontend.git
 cd TimeShift-NFT-Frontend
 npm install
 ```
